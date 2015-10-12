@@ -482,7 +482,7 @@
 <eventList name="C_FLEET_NEBULA_LIST">
 	<event>
 		<fleet>rebel</fleet>
-		<text>The Rebels are unlikely to get a good firing solution within this storm, but they seem willing to try their chances. An automated spotter unit is send to mark your ship for a long-range artillery strike. The fleet will unleash its full combined firepower on you, if you don't manage to jump away in time.</text>
+		<text>The Rebels are unlikely to get a good firing solution within this storm, but they seem willing to try their chances. An automated spotter unit is sent to mark your ship for a long-range artillery strike. The fleet will unleash its full combined firepower on you if you don't manage to jump away in time.</text>
 		<ship load="CE_SPOTTER_REBEL_FLEET" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
@@ -531,7 +531,7 @@
 	</event>
 	<event>
 		<fleet>rebel</fleet>
-		<text>The Rebels are unlikely to get a good firing solution within this strom, but they seem willing to try their chances. An automated spotter unit is send to mark your ship for a long-range artillery strike. The fleet will unleash its full combined firepower on you, if you don't manage to jump away in time.</text>
+		<text>The Rebels are unlikely to get a good firing solution within this strom, but they seem willing to try their chances. An automated spotter unit is sent to mark your ship for a long-range artillery strike. The fleet will unleash its full combined firepower on you if you don't manage to jump away in time.</text>
 		<ship load="CE_SPOTTER_REBEL_FLEET" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
@@ -629,7 +629,7 @@
 	</event>
 	<event>
 		<fleet>rebel</fleet>
-		<text>You are lucky, the capital ships are unlikely to find you here and a single scout is the only unit in close vecinity. You must flee before their cruisers open fire!</text>
+		<text>You are lucky, the capital ships are unlikely to find you here and a single scout is the only unit in close vicinity. You must flee before their cruisers open fire!</text>
 		<ship load="LONG_FLEET" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
@@ -678,7 +678,7 @@
 	</event>
 	<event>
 		<fleet>rebel</fleet>
-		<text>You try to hide in the clouds, but there are Rebel scout everywhere. You must flee before their cruisers get in firing range!</text>
+		<text>You try to hide in the clouds, but there are Rebel scouts everywhere. You must flee before their cruisers get in firing range!</text>
 		<ship load="LONG_FLEET" hostile="true"/>
 		<choice hidden="true">
 			<text>Continue...</text>
